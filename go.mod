@@ -1,3 +1,3 @@
 module github.com/joao-fontenele/scheduler
 
-go 1.15
+go 1.18
